@@ -1,0 +1,68 @@
+html, body {
+  margin: 0 auto;
+  padding: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+li {
+  padding: 6px;
+  list-style-type: none;
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Arial";
+  font-size: 13px;
+  color: black;
+}
+
+#red {
+  color: #b14436;
+}
+
+#navbar {
+  margin: 15px;
+  float: right;
+}
+
+#core {
+  position: relative;
+  clear: both;
+  top: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#logo {
+  width: 269px;
+  height: 95px;
+}
+
+#search {
+  width: 525px;
+  height: 23px;
+}
+
+#footer {
+  padding: none;
+  position: absolute;
+  bottom: 0;
+  height: 40px;
+  width: 100%;
+  clear: both;
+  float: bottom;
+
+  background-color: #f2f2f2;
+}
+
+#l_footer {
+  float: left;
+}
+
+#r_footer {
+  float: right;
+}
